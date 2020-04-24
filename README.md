@@ -7,7 +7,7 @@
 [![npm](https://img.shields.io/badge/supported-typescript-2a507e.svg)]()
 [![npm](https://img.shields.io/badge/supported-babel-yellow.svg)]()
 
-React Singletons brings the singleton pattern to React components. In software engineering, the singleton pattern is a software design pattern that restricts the instantiation of a class to one 'single' instance. This is useful when exactly one object is needed to coordinate actions across the system. The term comes from the mathematical concept of a singleton.
+React Singletons brings the singleton pattern to React components. This module allows applications to create components that live outside of your application with shared states for popups and overlays.
 
 **&Lt;**
 [**My other Modules**](https://github.com/elraccoone) &middot;
