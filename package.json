@@ -1,6 +1,6 @@
 {
   "name": "react-singletons",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "React Singletons brings the singleton pattern to React components. This module allows applications to create components that live outside of your application with shared states for popups and overlays.",
   "main": "distribution/Export.js",
   "scripts": {
