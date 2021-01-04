@@ -2,9 +2,9 @@
 
 # React Singletons
 
+[![license](https://img.shields.io/badge/license-Apache_2.0-red.svg?style=for-the-badge)]()
 [![npm](https://img.shields.io/npm/v/react-singletons.svg?style=for-the-badge)]()
 [![npm](https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge)]()
-[![npm](https://img.shields.io/npm/dt/react-singletons.svg?style=for-the-badge)]()
 
 React Singletons brings the singleton pattern to React components. This module allows applications to create components that live outside of your application with shared states for popups and overlays.
 
